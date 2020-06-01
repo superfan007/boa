@@ -1,0 +1,2 @@
+am2402: Temperature and humidity sensor,suport for single and I2C bus.
+at24c02 : eeprom,suport for I2C bus.
